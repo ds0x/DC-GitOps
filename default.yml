@@ -14,6 +14,10 @@
 org_settings:
   fleet_desktop:
     transparency_url: https://catoftheday.com
+  webhook_settings:
+    activities_webhook:
+      enable_activities_webhook: true
+      destination_url: https://webhook.site/e0d36072-f60b-43b7-90b3-7182825bfd9e
   org_info:
     ###########################################################
     # The name of your organization is displayed to end users
